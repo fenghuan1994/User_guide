@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="display_in_viewpager" translatable="false">
+        <item>wallpaper01</item>
+        <item>wallpaper02</item>
+        <item>wallpaper03</item>
+        <item>wallpaper04</item>
+        <item>wallpaper05</item>
+        <item>wallpaper06</item>
+        <item>wallpaper07</item>
+        <item>wallpaper08</item>
+        <item>wallpaper09</item>
+        <item>wallpaper10</item>
+        <item>wallpaper11</item>
+        <item>wallpaper12</item>
+        <item>wallpaper13</item>
+        <item>wallpaper14</item>
+        <item>wallpaper15</item>
+    </string-array>
+</resources>
